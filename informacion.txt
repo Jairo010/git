@@ -5,3 +5,4 @@ Cuarto software
 Softw
 Manejo y configuracion de software
 Metodologias agiles
+Base de datos
