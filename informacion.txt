@@ -6,3 +6,4 @@ Softw
 Manejo y configuracion de software
 Metodologias agiles
 Computacion visual
+Base de datos
