@@ -3,3 +3,4 @@ Jairo freire
 Tisaleo
 Cuarto software
 Metodologias Agiles
+Manejo y configuracion de software
