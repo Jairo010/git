@@ -7,3 +7,4 @@ Manejo y configuracion de software
 Metodologias agiles
 Computacion visual
 Base de datos
+No se debe modificar desde git hub
