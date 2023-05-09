@@ -8,3 +8,4 @@ Metodologias agiles
 Computacion visual
 Base de datos
 No se debe modificar desde git hub
+No se debe crear ramas desde git
